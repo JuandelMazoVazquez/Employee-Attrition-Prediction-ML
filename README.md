@@ -52,6 +52,8 @@ jupyter notebook Employee-Attrition-Prediction-ML.ipynb
 ```
 The two CSV files must sit next to the notebook (they are included). The rendered `Employee-Attrition-Prediction-ML.html` shows all outputs without running anything.
 
+The stored outputs were produced with a different random seed, which was removed because it was a personal identifier. With the current seed (`STUDENT_ID = 123456789`), a rerun gives slightly different splits and scores from the ones shown.
+
 ## Repository structure
 ```
 Employee-Attrition-Prediction-ML.ipynb        full analysis with outputs
